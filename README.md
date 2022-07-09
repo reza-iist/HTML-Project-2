@@ -6,10 +6,33 @@
 [Web Design-Project-2](https://youtu.be/aqvRafv_5nc)  
 ---
  ### Playlists Link for Web Design & Web Development of me  
-1. [Web-Design-Project-1](https://www.youtube.com/playlist?list=PLxqLmn_MNa-Sl7EtwOFCV4zWEwleEd3mk)  
-2. [Web-Design-Project-2](https://www.youtube.com/playlist?list=PLxqLmn_MNa-Rfie-DoTgRRnUnXxZKGZip)  
-3. [Web-Development-Level-IV Certificate](https://www.youtube.com/playlist?list=PLxqLmn_MNa-Sv8NyBi2i97qDElbCeWcdW)
+1. [Web Design Project-1](https://www.youtube.com/playlist?list=PLxqLmn_MNa-Sl7EtwOFCV4zWEwleEd3mk)  
+2. [Web Design Project-2](https://www.youtube.com/playlist?list=PLxqLmn_MNa-Rfie-DoTgRRnUnXxZKGZip)  
+3. [Web Development Level-IV Certificate](https://www.youtube.com/playlist?list=PLxqLmn_MNa-Sv8NyBi2i97qDElbCeWcdW)
 ---
+
+### Useful Resources for Web Design for Free Downloadable Images & Videos : 
+1. [Unsplash](https://unsplash.com/)
+2. [Pixa Bay](https://pixabay.com/)
+3. [Pexels](https://www.pexels.com/)  
+4. [Free Images](https://www.freeimages.com/)    
+
+### Useful Resources for Web Design for Free Downloadable Illustrations:   
+1. [Undraw](https://undraw.co)
+2. [Free Pik](https://www.freepik.com)
+3. [Vecteezy](https://www.vecteezy.com/)
+4. [Storyset](https://storyset.com/)     
+
+### Usable Gradient Colors Source:  
+- [Web Gradients](https://webgradients.com/)  
+- [CSS Gradient](https://cssgradient.io/)   
+
+### Useful Resources for Web Design for Free Downloadable for icons  
+- [Free Icons](https://freeicons.io/)  
+- [Flat Icons](https://www.flaticon.com/)    
+
+---  
+
  ### HTML Code  
 ~~~
 <!DOCTYPE html>
