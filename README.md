@@ -5,12 +5,12 @@
 ### Youtube Link of HTML-Project-2  
 [Web Design-Project-2](https://youtu.be/aqvRafv_5nc)  
 ---
- 👉 ### Playlists Link for Web Design & Web Development of me  
+ ### Playlists Link for Web Design & Web Development of me  
 1. [Web-Design-Project-1](https://www.youtube.com/playlist?list=PLxqLmn_MNa-Sl7EtwOFCV4zWEwleEd3mk)  
 2. [Web-Design-Project-2](https://www.youtube.com/playlist?list=PLxqLmn_MNa-Rfie-DoTgRRnUnXxZKGZip)  
 3. [Web-Development-Level-IV Certificate](https://www.youtube.com/playlist?list=PLxqLmn_MNa-Sv8NyBi2i97qDElbCeWcdW)
 ---
- 👉 ### HTML Code  
+ ### HTML Code  
 ~~~
 <!DOCTYPE html>
 <html lang="en">
