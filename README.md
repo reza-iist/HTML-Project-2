@@ -29,7 +29,17 @@
 
 ### Useful Resources for Web Design for Free Downloadable for icons  
 - [Free Icons](https://freeicons.io/)  
-- [Flat Icons](https://www.flaticon.com/)    
+- [Flat Icons](https://www.flaticon.com/)  
+
+### Useful Resources for Web Design for Free Downloadable for background remove from Image
+- [Remove BG](https://www.remove.bg/)
+- [Adobe BG](https://www.adobe.com/express/feature/image/remove-background)
+
+### Useful Resources for Web Design for Free Downloadable for Photo Editor & Design Maker
+- [Pix Lr](https://pixlr.com/e/) 
+- [Picture Resize](https://picresize.com/) 
+- [Adobe Resize](https://www.adobe.com/express/feature/image/resize) 
+- [Biteable](https://biteable.com/tools/image-resizer/) 
 
 ---  
 
