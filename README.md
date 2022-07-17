@@ -1,4 +1,5 @@
 ![cover](./cover.png)  
+![Services](./services.png)
 # HTML-Project-2
  👉 Create a Web Design using HTML &amp; CSS Project-2  
 ---
@@ -44,7 +45,7 @@
 ---  
 
  ### HTML Code  
-~~~
+~~~html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -76,13 +77,52 @@
         </div>
     </header>
     <!-- Header Part End -->
+    <!-- service part start -->
+    <section class="services">
+        <div class="services-cont">
+            <div class="circle">
+                <img src="./assets/images/bg-service.jpg" alt="bg-service">
+            </div>
+            <h1>Your <span class="career">Career Path</span> Begins Here</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, nisi cupiditate ea illo itaque architecto error eos aperiam expedita velit, delectus similique amet fuga tempore qui animi excepturi, quibusdam quasi.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam soluta eius eos officiis exercitationem esse inventore minus cupiditate mollitia corporis?</p>
+            <a href="#">Learn More</a>
+        </div>
+        <div class="services-grid">
+            <a href="diploma.html">
+                <div class="grid-box diploma">
+                    <img src="./assets/images/diploma.png" alt="diploma">
+                    <h1>Diploma Courses</h1>
+                </div>
+            </a>
+            <a href="diploma.html">
+                <div class="grid-box short">
+                    <img src="./assets/images/short.png" alt="diploma">
+                    <h1>Short Courses</h1>
+                </div>
+            </a>
+            <a href="diploma.html">
+                <div class="grid-box cbtcourses">
+                    <img src="./assets/images/cbt.png" alt="diploma">
+                    <h1>CBT Courses</h1>
+                </div>
+            </a>
+            <a href="diploma.html">
+                <div class="grid-box abroad">
+                    <img src="./assets/images/abroad.png" alt="diploma">
+                    <h1>Courses Abroad</h1>
+                </div>
+            </a>
+        </div>
+    </section>
+    <!-- service part end -->
 </body>
 </html>
 ~~~  
 
 ### Style.css code  
 
-~~~
+~~~css
 *{
     margin: 0;
     padding: 0;
@@ -193,4 +233,83 @@ header{
     width: 100%;
 }
 /* Header part end*/
+/* Services part start */
+.services{
+    width: 1200px;
+    margin: 80px auto;
+    display: flex;
+}
+.services-cont{
+    flex-basis: 40%;
+    position: relative;
+    padding: 80px 40px 20px 100px;
+    
+}
+.services-cont h1{
+    color: red;
+    padding: 20px 0;
+}
+.services-cont p{
+    padding-bottom: 20px;
+}
+.services-cont a{
+    text-decoration: none;
+    margin-left: 120px;
+    border:2px solid tomato;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.career{
+    color: blue;
+}
+.services-grid{
+    flex-basis: 60%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px,auto));
+}
+.services-grid img{
+    width: 50px;
+    height: 50px;
+}
+.circle img{
+    border-radius: 50%;
+    position: absolute;
+    top: -5%;
+    left: 5%;
+    z-index: -1;
+}
+.grid-box{
+    height: 200px;
+    background: #000;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+    animation: scaleup 8s ease-in-out infinite;
+}
+.grid-box img{
+    margin: 20px 0;
+}
+.grid-box h1{
+    color: yellow;
+}
+.services-grid a{
+    text-decoration: none;
+}
+.diploma, .abroad{
+    background: rgb(239, 44, 44);
+}
+/* Services part end */
+
+/* animation */
+@keyframes scaleup{
+    0%{
+        transform:scale(1.1);
+    }
+    50%{
+        transform:scale(1);
+    }
+    100%{
+        transform:scale(1.1);
+    }
+}
 ~~~
